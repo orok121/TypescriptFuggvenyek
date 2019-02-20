@@ -33,11 +33,8 @@ class Content {
         res.write("<br>" + result6);
         res.write("<br>" + result7);
         res.write("<br><br><b>GitHub repository:</b><br>");
-        res.write("<a href='https://github.com/orok121/Eloadas.git' target='_blank'>" +
-            "https://github.com/orok121/Eloadas.git</a><br>");
-        res.write("<b>Heroku:</b><br>");
-        res.write("<a href='https://bemutatofunctionsfortypescript.herokuapp.com/' target='_blank'>" +
-            "https://bemutatofunctionsfortypescript.herokuapp.com/</a><br>");
+        res.write("<a href='https://github.com/orok121/TypescriptFuggvenyek' target='_blank'>" +
+            "https://github.com/orok121/TypescriptFuggvenyek</a><br>");
         res.end();
     }
 }
