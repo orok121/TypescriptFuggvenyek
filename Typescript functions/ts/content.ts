@@ -34,7 +34,7 @@ export default class Content {
         res.write("<br>" + result7);
 
         res.write("<br><br><b>GitHub repository:</b><br>");
-        res.write("<a href='https://github.com/orok121/TypescritFuggvenyek' target='_blank'>" +
+        res.write("<a href='https://github.com/orok121/TypescriptFuggvenyek' target='_blank'>" +
             "https://github.com/orok121/TypescriptFuggvenyek</a><br>");
         res.end();
     }
